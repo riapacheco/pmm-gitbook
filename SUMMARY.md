@@ -49,8 +49,9 @@
 
 ***
 
-* [Product Portfolio](https://ria.management)
 * [Personal Website](https://ria.run)
+* [Product Portfolio](https://ria.management)
 * [Music Producer Website](https://ribeets.com)
 * [Proprietary Systems](https://riapacheco.systems)
+* [Roadmap Exercises](https://roadmaps.riapacheco.link)
 * [Code Blog](https://dev.to/riapacheco)
