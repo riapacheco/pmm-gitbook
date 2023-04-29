@@ -49,7 +49,8 @@
 
 ***
 
-* [Portfolio](https://ria.run/#portfolio)
+* [Product Portfolio](https://ria.management)
+* [Personal Website](https://ria.run)
+* [Music Producer Website](https://ribeets.com)
+* [Proprietary Systems](https://riapacheco.systems)
 * [Code Blog](https://dev.to/riapacheco)
-* [Website](https://ria.run)
-* [Seasonal Color Palette](https://xd.adobe.com/view/29870eb2-ae92-4c1f-89de-284afe9c22bc-7cd4/screen/8ad7973e-724a-40c1-ac21-38446c10df0d/specs/?hints=off%2F)
